@@ -65,6 +65,6 @@ Sistemin nasıl çalıştığını görmek için aşağıdaki videoyu izleyebili
 *   Basit bir crafting (eşya üretme) sistemi entegrasyonu.
 *   Envanter durumunu kaydetme ve yükleme.
 
-*   Daha Fazlası için Linkedin ve Artstation hesabıma bakmayı unutmayın
+## 💖 Daha Fazlası için Linkedin ve Artstation hesabıma bakmayı unutmayın
 *   https://www.linkedin.com/in/emirhan-hatipo%C4%9Flu-9a3b31249/
 *   https://www.artstation.com/xzeus08x5
